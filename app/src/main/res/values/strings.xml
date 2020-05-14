@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Russian Roulette</string>
+    <string name="image_shoot">Click on the image to shoot!</string>
+    <string name="you_dead">You DEAD !</string>
+    <string name="you_alive">You are alive, pass the gun!</string>
+    <string name="roll_barrel">Roll the barrel first</string>
+    <string name="roll_gun_barrel">ROLL gun Barrel</string>
+    <string name="click_on_the_image_to_shoot">Click on the image to shoot!</string>
+</resources>
